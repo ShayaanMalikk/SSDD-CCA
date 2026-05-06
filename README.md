@@ -53,7 +53,7 @@ This ensures that all vulnerabilities are properly demonstrated and then success
 ---
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Backend: Python / Flask 
 - Frontend: HTML, CSS, JavaScript
 - Security Concepts: OWASP Top 10
@@ -61,7 +61,7 @@ This ensures that all vulnerabilities are properly demonstrated and then success
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 - Understanding real-world web application vulnerabilities
 - Hands-on experience with secure coding practices
 - Implementation of authentication and authorization controls
