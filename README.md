@@ -12,11 +12,9 @@ The goal of this project is to understand common web application security flaws,
 
 ## ⚙️ Project Structure
 
-
-vulnerable/ → Insecure version of the application (with vulnerabilities)
-fixed/ → Secure version of the application (with fixes applied)
+vulnerable/ → Insecure version of the application (with vulnerabilities)  
+fixed/ → Secure version of the application (with fixes applied)  
 tests/ → Automated test scripts for verifying vulnerabilities and fixes
-
 
 ---
 
