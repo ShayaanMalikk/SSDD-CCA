@@ -1,6 +1,6 @@
 # 🛡️ Secure Task Management Web Application
 
-## 📌 Overview
+## Overview
 This project is a **Task Management Web Application** developed to demonstrate secure software design principles. The system is implemented in two versions:
 
 - **Vulnerable Version** → Contains intentionally introduced security vulnerabilities for demonstration purposes  
