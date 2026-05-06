@@ -14,7 +14,7 @@ The goal of this project is to understand common web application security flaws,
 
 vulnerable/ → Insecure version of the application (with vulnerabilities)  
 fixed/ → Secure version of the application (with fixes applied)  
-tests/ → Automated test scripts for verifying vulnerabilities and fixes
+Automatedtests/ → Automated test scripts for verifying vulnerabilities and fixes
 
 ---
 
