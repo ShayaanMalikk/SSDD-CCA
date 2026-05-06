@@ -20,7 +20,7 @@ tests/ → Automated test scripts for verifying vulnerabilities and fixes
 
 ---
 
-## 🚨 Security Vulnerabilities Implemented
+## Security Vulnerabilities Implemented
 
 ### 1. SQL Injection (Search Function)
 - **Issue:** User input is directly used in database queries without proper sanitization
@@ -43,7 +43,7 @@ tests/ → Automated test scripts for verifying vulnerabilities and fixes
 
 ---
 
-## 🧪 Automated Testing
+## Automated Testing
 The project includes automated test scripts that:
 - Fail when executed against the **vulnerable version**
 - Pass when executed against the **fixed version**
@@ -52,21 +52,12 @@ This ensures that all vulnerabilities are properly demonstrated and then success
 
 ---
 
-## 🎥 Demo Video
-A short demonstration video (4–5 minutes) showcasing:
-- Exploitation of vulnerabilities in the vulnerable version
-- Fixes applied in the secure version
-- Verification through test cases
-
-▶ **Video Link:** _Add your YouTube/Drive link here_
-
----
 
 ## 🛠️ Technologies Used
-- Backend: Python / Flask (or your framework)
+- Backend: Python / Flask 
 - Frontend: HTML, CSS, JavaScript
 - Security Concepts: OWASP Top 10
-- Testing: Automated test scripts (Python / pytest or similar)
+- Testing: Automated test scripts (Python / pytest)
 
 ---
 
